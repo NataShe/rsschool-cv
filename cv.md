@@ -8,7 +8,6 @@ I have started my frontend journey with free online courses from HTML Academy in
 Since that I have used several resources (YouTube videos, online books) to develop my skills and self-learning helped me to find my very first job in IT.  
 Currently I am working remotely in a small international company as a project manager and junior frontend-developer.  
 I am willing to develop my frontend skills at RS-School and apply them to my working process.
-
 ## **Skills**
 * HTML + CSS (SCSS/LESS)
 * Javascript (Basic)
